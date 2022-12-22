@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   
   ---
 
-  <div id="header" align="center">
+  <div id="header" align="left">
    
 ### :hammer_and_wrench: Languages and Tools :
   <div>
